@@ -3,6 +3,7 @@ from replit import clear
 print("WELCOME TO THE BIDDING GROUND !!!")
 
 def aution():
+    """For Conducting auction in the room"""
     bids = {}
     flag = "yes"
     while flag == "yes":
