@@ -1,3 +1,7 @@
+from art_calc import logo
+
+print(logo)
+
 def calculation(num,numm):
     operations = ['-','*','/','+']
     for x in operations:
